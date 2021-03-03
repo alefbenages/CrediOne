@@ -1,0 +1,789 @@
+<?xml version="1.0"?>
+<root ptr="0x559d3613f000" id="4" symbol="11SwRootFrame" lower="5">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x559d3539d000" id="1"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="69" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18669" height="33960" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18669" height="33960"/>
+ </infos>
+ <page ptr="0x559d3532c060" id="5" symbol="11SwPageFrame" next="41" upper="4" lower="6">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x559d3612ff50" id="6" symbol="11SwBodyFrame" upper="5" lower="471">
+   <infos>
+    <bounds left="8181" top="1418" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x559d36150c40" id="471" symbol="11SwTextFrame" next="475" upper="6" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="1418" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+M2T3. Final Report    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3789"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="276" nWidth="2060" Portion="M2T3. Final Report"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3790"/>
+    <LineBreak nWidth="9639" Line="M2T3. Final Report"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d3700d8d0" id="475" symbol="11SwTextFrame" next="372" prev="471" upper="6" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="1694" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37185a90" id="372" symbol="11SwTextFrame" next="374" prev="475" upper="6" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="2151" width="9638" height="1725" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="1544"/>
+    </infos>
+To solve this part of the problem, implement an ML algorithm that predicts the defaulting probability based on the financial history. I tried some different approaches, but it wasn’t enough. As I’ve been told, it was a difficult problem. In fact, the problem is still unsolved, or done in a very precarious way, with a Gradient Boost Regression poorly performing with an accuracy around 20-25%.    <Text nLength="89" nType="PortionType::Text" nHeight="276" nWidth="8592" Portion="To solve this part of the problem, implement an ML algorithm that predicts the defaulting"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="To solve this part of the problem, implement an ML algorithm that predicts the defaulting "/>
+    <Text nLength="100" nType="PortionType::Text" nHeight="276" nWidth="9353" Portion="probability based on the financial history. I tried some different approaches, but it wasn&#x2019;t enough."/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="probability based on the financial history. I tried some different approaches, but it wasn&#x2019;t enough. "/>
+    <Text nLength="104" nType="PortionType::Text" nHeight="276" nWidth="9527" Portion="As I&#x2019;ve been told, it was a difficult problem. In fact, the problem is still unsolved, or done in a very"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="As I&#x2019;ve been told, it was a difficult problem. In fact, the problem is still unsolved, or done in a very "/>
+    <Text nLength="94" nType="PortionType::Text" nHeight="276" nWidth="9422" Portion="precarious way, with a Gradient Boost Regression poorly performing with an accuracy around 20-"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="precarious way, with a Gradient Boost Regression poorly performing with an accuracy around 20-"/>
+    <Text nLength="4" nType="PortionType::Lay" nHeight="276" nWidth="500" Portion="25%."/>
+    <LineBreak nWidth="500" Line="25%."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37aaa510" id="374" symbol="11SwTextFrame" next="375" prev="372" upper="6" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="3876" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d36fa52f0" id="375" symbol="11SwTextFrame" next="376" prev="374" upper="6" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="4333" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="276"/>
+    </infos>
+The general pipeline I tried was:    <Text nLength="33" nType="PortionType::Para" nHeight="276" nWidth="3112" Portion="The general pipeline I tried was:"/>
+    <LineBreak nWidth="3112" Line="The general pipeline I tried was:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d361f76d0" id="376" symbol="11SwTextFrame" next="377" prev="375" upper="6" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="4650" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="276"/>
+    </infos>
+- EDA to understand the data, its distribution, and general characteristics.    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="140" Portion="- "/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="276" nWidth="553" Portion="EDA "/>
+    <Text nLength="70" nType="PortionType::Text" nHeight="276" nWidth="6351" Portion="to understand the data, its distribution, and general characteristics."/>
+    <LineBreak nWidth="7044" Line="- EDA to understand the data, its distribution, and general characteristics."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d372bcf00" id="377" symbol="11SwTextFrame" next="378" prev="376" upper="6" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="4967" width="9638" height="634" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="593"/>
+    </infos>
+- Data Cleaning and Pre Processing, where I got a great surprise discovering that not all the columns were relevant. In fact, from almost 25 features I ended up working with just 13.    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="140" Portion="- "/>
+    <Text nLength="32" nType="PortionType::Text" nHeight="276" nWidth="3485" Portion="Data Cleaning and Pre Processing"/>
+    <Text nLength="60" nType="PortionType::Text" nHeight="276" nWidth="5418" Portion=", where I got a great surprise discovering that not all the "/>
+    <LineBreak nWidth="9043" Line="- Data Cleaning and Pre Processing, where I got a great surprise discovering that not all the "/>
+    <Text nLength="88" nType="PortionType::Lay" nHeight="276" nWidth="8504" Portion="columns were relevant. In fact, from almost 25 features I ended up working with just 13."/>
+    <LineBreak nWidth="8504" Line="columns were relevant. In fact, from almost 25 features I ended up working with just 13."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37928090" id="378" symbol="11SwTextFrame" next="379" prev="377" upper="6" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="5601" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="276"/>
+    </infos>
+- ML, I tried to use the dataset to train an algorithm to solve the problem.    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="140" Portion="- "/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="276" nWidth="507" Portion="ML, "/>
+    <Text nLength="70" nType="PortionType::Text" nHeight="276" nWidth="6398" Portion="I tried to use the dataset to train an algorithm to solve the problem."/>
+    <LineBreak nWidth="7045" Line="- ML, I tried to use the dataset to train an algorithm to solve the problem."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37a17510" id="379" symbol="11SwTextFrame" next="380" prev="378" upper="6" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="5918" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="276"/>
+    </infos>
+As I have already sent reports of the first two steps, now I will focus on the last one.    <Text nLength="88" nType="PortionType::Para" nHeight="276" nWidth="8078" Portion="As I have already sent reports of the first two steps, now I will focus on the last one."/>
+    <LineBreak nWidth="8078" Line="As I have already sent reports of the first two steps, now I will focus on the last one."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d3792c000" id="380" symbol="11SwTextFrame" next="381" prev="379" upper="6" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="6235" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d372c2ed0" id="381" symbol="11SwTextFrame" next="382" prev="380" upper="6" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="6552" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="276"/>
+    </infos>
+For the last step I used another framework:    <Text nLength="43" nType="PortionType::Para" nHeight="276" nWidth="4126" Portion="For the last step I used another framework:"/>
+    <LineBreak nWidth="4126" Line="For the last step I used another framework:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d371f4a70" id="382" symbol="11SwTextFrame" next="383" prev="381" upper="6" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="6869" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="41" width="9214" height="276"/>
+    </infos>
+Phase zero: just splinting the data into different groups of Train, Validation, and Test.    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x559d372fe7b0" color="ffffffff"/>
+    </Special>
+    <Text nLength="12" nType="PortionType::Text" nHeight="276" nWidth="1235" Portion="Phase zero: "/>
+    <Text nLength="77" nType="PortionType::Text" nHeight="276" nWidth="6996" Portion="just splinting the data into different groups of Train, Validation, and Test."/>
+    <LineBreak nWidth="8514" Line="&#x2022;Phase zero: just splinting the data into different groups of Train, Validation, and Test."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37ab7390" id="383" symbol="11SwTextFrame" next="384" prev="382" upper="6" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="7186" width="9638" height="951" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="41" width="9214" height="910"/>
+    </infos>
+Phase one: evaluate a bunch number of possible candidates. The models were fitted just out of the box, no hyperparameters were tuned. It was a kind of fast and dirty implementation. The models I tried:     <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x559d367a0c40" color="ffffffff"/>
+    </Special>
+    <Text nLength="11" nType="PortionType::Text" nHeight="276" nWidth="1160" Portion="Phase one: "/>
+    <Text nLength="80" nType="PortionType::Text" nHeight="276" nWidth="7753" Portion="evaluate a bunch number of possible candidates. The models were fitted just out "/>
+    <LineBreak nWidth="9196" Line="&#x2022;Phase one: evaluate a bunch number of possible candidates. The models were fitted just out "/>
+    <Text nLength="91" nType="PortionType::Lay" nHeight="276" nWidth="8737" Portion="of the box, no hyperparameters were tuned. It was a kind of fast and dirty implementation. "/>
+    <LineBreak nWidth="8737" Line="of the box, no hyperparameters were tuned. It was a kind of fast and dirty implementation. "/>
+    <Text nLength="20" nType="PortionType::Lay" nHeight="276" nWidth="1893" Portion="The models I tried: "/>
+    <LineBreak nWidth="1893" Line="The models I tried: "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d36735490" id="384" symbol="11SwTextFrame" next="385" prev="383" upper="6" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="8137" width="9638" height="951" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="1131" top="41" width="8507" height="910"/>
+    </infos>
+‘Random Forest Regression’, ‘Linear Regression’, Support vector Regression’, ‘Logistic Regression’, ‘Gradient Boosting Regressor’, ‘K-Neighbors Classifier’, ‘Decision Tree Classifier’.    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x559d3206e3d0" color="000e101a"/>
+    </Special>
+    <Text nLength="77" nType="PortionType::Text" nHeight="276" nWidth="7658" Portion="&#x2018;Random Forest Regression&#x2019;, &#x2018;Linear Regression&#x2019;, Support vector Regression&#x2019;, "/>
+    <LineBreak nWidth="7941" Line="&#x2022;&#x2018;Random Forest Regression&#x2019;, &#x2018;Linear Regression&#x2019;, Support vector Regression&#x2019;, "/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="276" nWidth="7789" Portion="&#x2018;Logistic Regression&#x2019;, &#x2018;Gradient Boosting Regressor&#x2019;, &#x2018;K-Neighbors Classifier&#x2019;, "/>
+    <LineBreak nWidth="7789" Line="&#x2018;Logistic Regression&#x2019;, &#x2018;Gradient Boosting Regressor&#x2019;, &#x2018;K-Neighbors Classifier&#x2019;, "/>
+    <Text nLength="27" nType="PortionType::Lay" nHeight="276" nWidth="2548" Portion="&#x2018;Decision Tree Classifier&#x2019;."/>
+    <LineBreak nWidth="2548" Line="&#x2018;Decision Tree Classifier&#x2019;."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d32493f30" id="385" symbol="11SwTextFrame" next="386" prev="384" upper="6" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="9088" width="9638" height="1902" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="1861"/>
+    </infos>
+I tried a mix of classification and regression models because despite the problem asked explicitly asked for a probability, it had a classification problem underlying. I have to admit that I expected some of those models to perform decently, but the highest R2 (the overall model accuracy) reached was around 0.211. A lot of models performed worst than a simple horizontal line that always predicts the same value. Anyway, I hoped that some cross-validation and hyperparameter tuning could help.    <Text nLength="99" nType="PortionType::Para" nHeight="276" nWidth="9376" Portion="I tried a mix of classification and regression models because despite the problem asked explicitly "/>
+    <LineBreak nWidth="9376" Line="I tried a mix of classification and regression models because despite the problem asked explicitly "/>
+    <Text nLength="101" nType="PortionType::Lay" nHeight="276" nWidth="9361" Portion="asked for a probability, it had a classification problem underlying. I have to admit that I expected "/>
+    <LineBreak nWidth="9361" Line="asked for a probability, it had a classification problem underlying. I have to admit that I expected "/>
+    <Text nLength="98" nType="PortionType::Lay" nHeight="276" nWidth="9574" Portion="some of those models to perform decently, but the highest R2 (the overall model accuracy) reached "/>
+    <LineBreak nWidth="9574" Line="some of those models to perform decently, but the highest R2 (the overall model accuracy) reached "/>
+    <Text nLength="92" nType="PortionType::Lay" nHeight="276" nWidth="8936" Portion="was around 0.211. A lot of models performed worst than a simple horizontal line that always "/>
+    <LineBreak nWidth="8936" Line="was around 0.211. A lot of models performed worst than a simple horizontal line that always "/>
+    <Text nLength="94" nType="PortionType::Lay" nHeight="276" nWidth="9281" Portion="predicts the same value. Anyway, I hoped that some cross-validation and hyperparameter tuning "/>
+    <LineBreak nWidth="9281" Line="predicts the same value. Anyway, I hoped that some cross-validation and hyperparameter tuning "/>
+    <Text nLength="11" nType="PortionType::Lay" nHeight="276" nWidth="1066" Portion="could help."/>
+    <LineBreak nWidth="1066" Line="could help."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d3618d530" id="386" symbol="11SwTextFrame" next="387" prev="385" upper="6" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="10990" width="9638" height="634" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="41" width="9214" height="593"/>
+    </infos>
+Phase two: I tried all the models again using cross-validation, looking for a suitable candidate. Mostly I got the same results.     <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x559d371a4a40" color="ffffffff"/>
+    </Special>
+    <Text nLength="10" nType="PortionType::Text" nHeight="276" nWidth="1113" Portion="Phase two:"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="76" nType="PortionType::Text" nHeight="276" nWidth="6965" Portion="I tried all the models again using cross-validation, looking for a suitable "/>
+    <LineBreak nWidth="8421" Line="&#x2022;Phase two:&#xA0;I tried all the models again using cross-validation, looking for a suitable "/>
+    <Text nLength="41" nType="PortionType::Text" nHeight="276" nWidth="3879" Portion="candidate. Mostly I got the same results."/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <LineBreak nWidth="3939" Line="candidate. Mostly I got the same results.&#xA0;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37a39f90" id="387" symbol="11SwTextFrame" next="388" prev="386" upper="6" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="11624" width="9638" height="1585" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="41" width="9214" height="1544"/>
+    </infos>
+Phase Three: I expected a lot from this phase, I thought it would give a 180-degree turn to the problem, but I’m getting used to the No free lunches of Data Science. From Phase One and Two, I selected the Gradient Boosting Regression as the best algorithm. I used the RandomiedSearchCV tool to define the best hyperparameters. Anyway, the results didn’t improve too much.     <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x559d372c3970" color="ffffffff"/>
+    </Special>
+    <Text nLength="12" nType="PortionType::Text" nHeight="276" nWidth="1344" Portion="Phase Three:"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="79" nType="PortionType::Text" nHeight="276" nWidth="7391" Portion="I expected a lot from this phase, I thought it would give a 180-degree turn to "/>
+    <LineBreak nWidth="9078" Line="&#x2022;Phase Three:&#xA0;I expected a lot from this phase, I thought it would give a 180-degree turn to "/>
+    <Text nLength="40" nType="PortionType::Text" nHeight="276" nWidth="3813" Portion="the problem, but I&#x2019;m getting used to the"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="276" nWidth="1497" Portion="No free lunches"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="32" nType="PortionType::Text" nHeight="276" nWidth="3299" Portion="of Data Science. From Phase One "/>
+    <LineBreak nWidth="8729" Line="the problem, but I&#x2019;m getting used to the&#xA0;No free lunches&#xA0;of Data Science. From Phase One "/>
+    <Text nLength="87" nType="PortionType::Lay" nHeight="276" nWidth="8330" Portion="and Two, I selected the Gradient Boosting Regression as the best algorithm. I used the "/>
+    <LineBreak nWidth="8330" Line="and Two, I selected the Gradient Boosting Regression as the best algorithm. I used the "/>
+    <Text nLength="86" nType="PortionType::Lay" nHeight="276" nWidth="8580" Portion="RandomiedSearchCV tool to define the best hyperparameters. Anyway, the results didn&#x2019;t "/>
+    <LineBreak nWidth="8580" Line="RandomiedSearchCV tool to define the best hyperparameters. Anyway, the results didn&#x2019;t "/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="276" nWidth="1820" Portion="improve too much."/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <LineBreak nWidth="1880" Line="improve too much.&#xA0;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d36d4e770" id="388" symbol="11SwTextFrame" next="389" prev="387" upper="6" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="13209" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="41" width="9214" height="276"/>
+    </infos>
+Phase Four: tried the tuned model, but with the test set. Similar poor results.     <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x559d37be7010" color="ffffffff"/>
+    </Special>
+    <Text nLength="11" nType="PortionType::Text" nHeight="276" nWidth="1247" Portion="Phase Four:"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="67" nType="PortionType::Text" nHeight="276" nWidth="6105" Portion="tried the tuned model, but with the test set. Similar poor results."/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <LineBreak nWidth="7755" Line="&#x2022;Phase Four:&#xA0;tried the tuned model, but with the test set. Similar poor results.&#xA0;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d371308c0" id="389" symbol="11SwTextFrame" next="390" prev="388" upper="6" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="13526" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d36fe1800" id="390" symbol="11SwTextFrame" next="391" prev="389" upper="6" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="13843" width="9638" height="1585" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="1544"/>
+    </infos>
+After the poor performance of the initial loop, I wanted to try some pre-processing of the data. I analyzed it again, plotting a heat-map of the correlations. I noticed 2 new index columns with a correlation equal to 1 (I suspect they were generated while saving the file to CSV). I removed them, also removed some columns (PAY_4,5,6) that had a moderate to low correlation with the outcome but very correlated with themselves. The result improved a bit, but still too low and imprecise.     <Text nLength="99" nType="PortionType::Para" nHeight="276" nWidth="9251" Portion="After the poor performance of the initial loop, I wanted to try some pre-processing of the data. I "/>
+    <LineBreak nWidth="9251" Line="After the poor performance of the initial loop, I wanted to try some pre-processing of the data. I "/>
+    <Text nLength="97" nType="PortionType::Lay" nHeight="276" nWidth="9203" Portion="analyzed it again, plotting a heat-map of the correlations. I noticed 2 new index columns with a "/>
+    <LineBreak nWidth="9203" Line="analyzed it again, plotting a heat-map of the correlations. I noticed 2 new index columns with a "/>
+    <Text nLength="100" nType="PortionType::Text" nHeight="276" nWidth="9590" Portion="correlation equal to 1 (I suspect they were generated while saving the file to CSV). I removed them,"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9590" Line="correlation equal to 1 (I suspect they were generated while saving the file to CSV). I removed them, "/>
+    <Text nLength="94" nType="PortionType::Lay" nHeight="276" nWidth="9480" Portion="also removed some columns (PAY_4,5,6) that had a moderate to low correlation with the outcome "/>
+    <LineBreak nWidth="9480" Line="also removed some columns (PAY_4,5,6) that had a moderate to low correlation with the outcome "/>
+    <Text nLength="96" nType="PortionType::Text" nHeight="276" nWidth="9060" Portion="but very correlated with themselves. The result improved a bit, but still too low and imprecise."/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <LineBreak nWidth="9120" Line="but very correlated with themselves. The result improved a bit, but still too low and imprecise.&#xA0;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d36f5cd70" id="391" symbol="11SwTextFrame" prev="390" upper="6" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="15428" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x559d361ab240" id="41" symbol="11SwPageFrame" prev="5" upper="4" lower="42">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="17406" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x559d3680d720" id="42" symbol="11SwBodyFrame" upper="41" lower="394">
+   <infos>
+    <bounds left="8181" top="18540" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x559d3672ad90" id="394" symbol="11SwTextFrame" next="478" upper="42" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="18540" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+Some recommendations and new ideas to try.    <Text nLength="42" nType="PortionType::Para" nHeight="276" nWidth="4616" Portion="Some recommendations and new ideas to try."/>
+    <LineBreak nWidth="4616" Line="Some recommendations and new ideas to try."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d3532c9e0" id="478" symbol="11SwTextFrame" next="396" prev="394" upper="42" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="18816" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37a809e0" id="396" symbol="11SwTextFrame" next="397" prev="478" upper="42" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="19133" width="9638" height="1902" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="1861"/>
+    </infos>
+This is a problem of imbalanced data. Only 22% of the recordings included defaulting clients, naturally, the vast majority of the transactions will be legitimate, and only a very small proportion will be fraudulent. Similarly, if we are testing individuals for cancer, or spam email detectors, hardware faults detectors, Detection of oil spills from satellite images, etc, the positive rate will (hopefully) be only a small fraction of those tested. This kind of problem has some particularities that had to be taken into account.     <Text nLength="94" nType="PortionType::Para" nHeight="276" nWidth="9071" Portion="This is a problem of imbalanced data. Only 22% of the recordings included defaulting clients, "/>
+    <LineBreak nWidth="9071" Line="This is a problem of imbalanced data. Only 22% of the recordings included defaulting clients, "/>
+    <Text nLength="102" nType="PortionType::Lay" nHeight="276" nWidth="9448" Portion="naturally, the vast majority of the transactions will be legitimate, and only a very small proportion "/>
+    <LineBreak nWidth="9448" Line="naturally, the vast majority of the transactions will be legitimate, and only a very small proportion "/>
+    <Text nLength="98" nType="PortionType::Lay" nHeight="276" nWidth="9032" Portion="will be fraudulent. Similarly, if we are testing individuals for cancer, or spam email detectors, "/>
+    <LineBreak nWidth="9032" Line="will be fraudulent. Similarly, if we are testing individuals for cancer, or spam email detectors, "/>
+    <Text nLength="102" nType="PortionType::Lay" nHeight="276" nWidth="9223" Portion="hardware faults detectors, Detection of oil spills from satellite images, etc, the positive rate will "/>
+    <LineBreak nWidth="9223" Line="hardware faults detectors, Detection of oil spills from satellite images, etc, the positive rate will "/>
+    <Text nLength="100" nType="PortionType::Lay" nHeight="276" nWidth="9386" Portion="(hopefully) be only a small fraction of those tested. This kind of problem has some particularities "/>
+    <LineBreak nWidth="9386" Line="(hopefully) be only a small fraction of those tested. This kind of problem has some particularities "/>
+    <Text nLength="35" nType="PortionType::Lay" nHeight="276" nWidth="3239" Portion="that had to be taken into account. "/>
+    <LineBreak nWidth="3239" Line="that had to be taken into account. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d379c06d0" id="397" symbol="11SwTextFrame" next="398" prev="396" upper="42" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="21035" width="9638" height="1268" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="41" width="9214" height="1227"/>
+    </infos>
+I divided data into train, validation, test using the tool provided by Pandas. But I didn’t check the ratio of defaulting/non-defaulting of each set. If data were fully randomized and normally distributed, I think each group would receive a representative ratio of each label. I notice this aspect late, and my approach didn’t take this into account.    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x559d37256ad0" color="000e101a"/>
+    </Special>
+    <Text nLength="92" nType="PortionType::Text" nHeight="276" nWidth="8401" Portion="I divided data into train, validation, test using the tool provided by Pandas. But I didn&#x2019;t "/>
+    <LineBreak nWidth="8684" Line="&#x2022;I divided data into train, validation, test using the tool provided by Pandas. But I didn&#x2019;t "/>
+    <Text nLength="92" nType="PortionType::Lay" nHeight="276" nWidth="8710" Portion="check the ratio of defaulting/non-defaulting of each set. If data were fully randomized and "/>
+    <LineBreak nWidth="8710" Line="check the ratio of defaulting/non-defaulting of each set. If data were fully randomized and "/>
+    <Text nLength="95" nType="PortionType::Lay" nHeight="276" nWidth="8857" Portion="normally distributed, I think each group would receive a representative ratio of each label. I "/>
+    <LineBreak nWidth="8857" Line="normally distributed, I think each group would receive a representative ratio of each label. I "/>
+    <Text nLength="71" nType="PortionType::Lay" nHeight="276" nWidth="6626" Portion="notice this aspect late, and my approach didn&#x2019;t take this into account."/>
+    <LineBreak nWidth="6626" Line="notice this aspect late, and my approach didn&#x2019;t take this into account."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37136830" id="398" symbol="11SwTextFrame" next="358" prev="397" upper="42" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="22303" width="9638" height="951" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="41" width="9214" height="910"/>
+    </infos>
+This plot somehow explains the situation. It’s a scatter plot of the probability of defaulting, using the data of the predictions / actual values of the test set. The vast majority of dots are around the most typical situation, clients non-defaulting.    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x559d36d9cb20" color="000e101a"/>
+    </Special>
+    <Text nLength="96" nType="PortionType::Text" nHeight="276" nWidth="8791" Portion="This plot somehow explains the situation. It&#x2019;s a scatter plot of the probability of defaulting, "/>
+    <LineBreak nWidth="9074" Line="&#x2022;This plot somehow explains the situation. It&#x2019;s a scatter plot of the probability of defaulting, "/>
+    <Text nLength="97" nType="PortionType::Lay" nHeight="276" nWidth="8779" Portion="using the data of the predictions / actual values of the test set. The vast majority of dots are "/>
+    <LineBreak nWidth="8779" Line="using the data of the predictions / actual values of the test set. The vast majority of dots are "/>
+    <Text nLength="58" nType="PortionType::Lay" nHeight="276" nWidth="5425" Portion="around the most typical situation, clients non-defaulting."/>
+    <LineBreak nWidth="5425" Line="around the most typical situation, clients non-defaulting."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37966cd0" id="358" symbol="11SwTextFrame" next="53" prev="398" upper="42" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="23254" width="9638" height="4148" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9638" height="4107"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x559d36046b60" id="61" symbol="19SwFlyAtContentFrame" lower="62">
+      <infos>
+       <bounds left="9758" top="23421" width="6075" height="3705" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="6075" height="3705"/>
+      </infos>
+      <notxt ptr="0x559d36ffaa80" id="62" symbol="13SwNoTextFrame" upper="61">
+       <infos>
+        <bounds left="9758" top="23421" width="6075" height="3705" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="6075" height="3705"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="3831" nWidth="9638"/>
+    <LineBreak nWidth="9638"/>
+    <Text nLength="0" nType="PortionType::Lay" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d36daae80" id="53" symbol="11SwTextFrame" next="463" prev="358" upper="42" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="27402" width="9638" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="0" width="9278" height="828"/>
+    </infos>
+The business question asked for the probability of default. But it had a classification problem underlying. Another possible approach could be: take this resulting probability and then define a threshold value that classifies each probability into a binary result.     <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x559d37c5ec00" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="254" nWidth="274"/>
+    <Text nLength="87" nType="PortionType::Text" nHeight="276" nWidth="8078" Portion="The business question asked for the probability of default. But it had a classification"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="8438" Line="&#x2022;The business question asked for the probability of default. But it had a classification "/>
+    <Text nLength="91" nType="PortionType::Text" nHeight="276" nWidth="8811" Portion="problem underlying. Another possible approach could be: take this resulting probability and"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="8811" Line="problem underlying. Another possible approach could be: take this resulting probability and "/>
+    <Text nLength="85" nType="PortionType::Lay" nHeight="276" nWidth="7730" Portion="then define a threshold value that classifies each probability into a binary result. "/>
+    <LineBreak nWidth="7730" Line="then define a threshold value that classifies each probability into a binary result. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d3620ac00" id="463" symbol="11SwTextFrame" next="115" prev="53" upper="42" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="28230" width="9638" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="0" width="9278" height="828"/>
+    </infos>
+Those are some random outputs of the model. Using a threshold value, we can classify each predicted output higher than 0.25 as a possible defaulting client. Or define 3 or more groups as low, medium, and high probability.     <Text nLength="89" nType="PortionType::Text" nHeight="276" nWidth="8817" Portion="Those are some random outputs of the model. Using a threshold value, we can classify each"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="8817" Line="Those are some random outputs of the model. Using a threshold value, we can classify each "/>
+    <Text nLength="93" nType="PortionType::Text" nHeight="276" nWidth="8831" Portion="predicted output higher than 0.25 as a possible defaulting client. Or define 3 or more groups"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="8831" Line="predicted output higher than 0.25 as a possible defaulting client. Or define 3 or more groups "/>
+    <Text nLength="38" nType="PortionType::Lay" nHeight="276" nWidth="3681" Portion="as low, medium, and high probability. "/>
+    <LineBreak nWidth="3681" Line="as low, medium, and high probability. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x559d37924b20" id="115" symbol="11SwTextFrame" next="154" prev="463" upper="42" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="29058" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="0" width="9278" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <tab ptr="0x559d3799ad10" id="154" symbol="10SwTabFrame" next="65" prev="115" upper="42" lower="313">
+    <infos>
+     <bounds left="8181" top="29334" width="9638" height="3217" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="543" top="0" width="9123" height="3216"/>
+    </infos>
+    <row ptr="0x559d36f7c8e0" id="313" symbol="10SwRowFrame" next="322" upper="154" lower="314">
+     <infos>
+      <bounds left="8724" top="29334" width="9123" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9123" height="804"/>
+     </infos>
+     <cell ptr="0x559d37a80800" id="314" symbol="11SwCellFrame" next="318" upper="313" lower="315" rowspan="1">
+      <infos>
+       <bounds left="8724" top="29334" width="3177" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3067" height="693"/>
+      </infos>
+      <txt ptr="0x559d37a6bbf0" id="315" symbol="11SwTextFrame" next="316" upper="314" txtNodeIndex="44" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="29390" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Checking the row #: 6452       <Text nLength="24" nType="PortionType::Para" nHeight="231" nWidth="2078" Portion="Checking the row #: 6452"/>
+       <LineBreak nWidth="2078" Line="Checking the row #: 6452"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d37166c10" id="316" symbol="11SwTextFrame" next="317" prev="315" upper="314" txtNodeIndex="45" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="29621" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Actual value:  0       <Text nLength="16" nType="PortionType::Para" nHeight="231" nWidth="1272" Portion="Actual value:  0"/>
+       <LineBreak nWidth="1272" Line="Actual value:  0"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d3714a4f0" id="317" symbol="11SwTextFrame" prev="316" upper="314" txtNodeIndex="46" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="29852" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Predicted value: 0.09       <Text nLength="21" nType="PortionType::Para" nHeight="231" nWidth="1694" Portion="Predicted value: 0.09"/>
+       <LineBreak nWidth="1694" Line="Predicted value: 0.09"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x559d37a9d240" id="318" symbol="11SwCellFrame" next="320" prev="314" upper="313" lower="319" rowspan="4">
+      <infos>
+       <bounds left="11901" top="29334" width="1241" height="3216" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="1131" height="3105"/>
+      </infos>
+      <txt ptr="0x559d379fceb0" id="319" symbol="11SwTextFrame" next="462" upper="318" txtNodeIndex="49" WritingMode="Horizontal">
+       <infos>
+        <bounds left="11956" top="30711" width="1131" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="1131" height="231"/>
+       </infos>
+Threshold        <Text nLength="10" nType="PortionType::Para" nHeight="231" nWidth="861" Portion="Threshold "/>
+       <LineBreak nWidth="861" Line="Threshold "/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d3792e510" id="462" symbol="11SwTextFrame" prev="319" upper="318" txtNodeIndex="50" WritingMode="Horizontal">
+       <infos>
+        <bounds left="11956" top="30942" width="1131" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="1131" height="231"/>
+       </infos>
+e.g. 0.25       <Text nLength="9" nType="PortionType::Para" nHeight="231" nWidth="689" Portion="e.g. 0.25"/>
+       <LineBreak nWidth="689" Line="e.g. 0.25"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x559d37a80b20" id="320" symbol="11SwCellFrame" prev="318" upper="313" lower="354" rowspan="1">
+      <infos>
+       <bounds left="13142" top="29334" width="4705" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="4595" height="693"/>
+      </infos>
+      <txt ptr="0x559d372d42d0" id="354" symbol="11SwTextFrame" next="321" upper="320" txtNodeIndex="53" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13197" top="29505" width="4595" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4595" height="231"/>
+       </infos>
+← non-default.        <Text nLength="15" nType="PortionType::Para" nHeight="231" nWidth="1272" Portion="&#x2190; non-default. "/>
+       <LineBreak nWidth="1272" Line="&#x2190; non-default. "/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d371cabd0" id="321" symbol="11SwTextFrame" prev="354" upper="320" txtNodeIndex="54" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13197" top="29736" width="4595" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4595" height="231"/>
+       </infos>
+The algorithm predicted correctly.        <Text nLength="33" nType="PortionType::Text" nHeight="231" nWidth="2694" Portion="The algorithm predicted correctly"/>
+       <Text nLength="2" nType="PortionType::Text" nHeight="231" nWidth="100" Portion=". "/>
+       <LineBreak nWidth="2794" Line="The algorithm predicted correctly. "/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x559d3713ba40" id="322" symbol="10SwRowFrame" next="331" prev="313" upper="154" lower="323">
+     <infos>
+      <bounds left="8724" top="30138" width="9123" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9123" height="804"/>
+     </infos>
+     <cell ptr="0x559d37181ae0" id="323" symbol="11SwCellFrame" next="327" upper="322" lower="324" rowspan="1">
+      <infos>
+       <bounds left="8724" top="30138" width="3177" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3067" height="693"/>
+      </infos>
+      <txt ptr="0x559d35027650" id="324" symbol="11SwTextFrame" next="325" upper="323" txtNodeIndex="57" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="30194" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Checking the row #: 27540       <Text nLength="25" nType="PortionType::Para" nHeight="231" nWidth="2178" Portion="Checking the row #: 27540"/>
+       <LineBreak nWidth="2178" Line="Checking the row #: 27540"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d36786a70" id="325" symbol="11SwTextFrame" next="326" prev="324" upper="323" txtNodeIndex="58" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="30425" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Actual value:  1       <Text nLength="16" nType="PortionType::Para" nHeight="231" nWidth="1272" Portion="Actual value:  1"/>
+       <LineBreak nWidth="1272" Line="Actual value:  1"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d37985600" id="326" symbol="11SwTextFrame" prev="325" upper="323" txtNodeIndex="59" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="30656" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Predicted value: 0.11       <Text nLength="21" nType="PortionType::Para" nHeight="231" nWidth="1687" Portion="Predicted value: 0.11"/>
+       <LineBreak nWidth="1687" Line="Predicted value: 0.11"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x559d372a7880" id="327" symbol="11SwCellFrame" next="329" prev="323" upper="322" lower="328" rowspan="-3">
+      <infos>
+       <bounds left="11901" top="30138" width="1241" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="1131" height="693"/>
+      </infos>
+      <txt ptr="0x559d379c2ea0" id="328" symbol="11SwTextFrame" upper="327" txtNodeIndex="62" WritingMode="Horizontal">
+       <infos>
+        <bounds left="11956" top="30194" width="1131" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="1131" height="231"/>
+       </infos>
+       <Text nLength="0" nType="PortionType::Para" nHeight="231"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x559d37010710" id="329" symbol="11SwCellFrame" prev="327" upper="322" lower="355" rowspan="1">
+      <infos>
+       <bounds left="13142" top="30138" width="4705" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="4595" height="693"/>
+      </infos>
+      <txt ptr="0x559d37993420" id="355" symbol="11SwTextFrame" next="330" upper="329" txtNodeIndex="65" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13197" top="30309" width="4595" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4595" height="231"/>
+       </infos>
+← non-default.        <Text nLength="15" nType="PortionType::Para" nHeight="231" nWidth="1272" Portion="&#x2190; non-default. "/>
+       <LineBreak nWidth="1272" Line="&#x2190; non-default. "/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d36fdc920" id="330" symbol="11SwTextFrame" prev="355" upper="329" txtNodeIndex="66" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13197" top="30540" width="4595" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4595" height="231"/>
+       </infos>
+The algorithm predicted incorrectly.       <Text nLength="36" nType="PortionType::Para" nHeight="231" nWidth="2886" Portion="The algorithm predicted incorrectly."/>
+       <LineBreak nWidth="2886" Line="The algorithm predicted incorrectly."/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x559d371ea2a0" id="331" symbol="10SwRowFrame" next="340" prev="322" upper="154" lower="332">
+     <infos>
+      <bounds left="8724" top="30942" width="9123" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="false"/>
+      <prtBounds left="0" top="0" width="9123" height="804"/>
+     </infos>
+     <cell ptr="0x559d37ab6260" id="332" symbol="11SwCellFrame" next="336" upper="331" lower="333" rowspan="1">
+      <infos>
+       <bounds left="8724" top="30942" width="3177" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="false"/>
+       <prtBounds left="55" top="56" width="3067" height="693"/>
+      </infos>
+      <txt ptr="0x559d37980610" id="333" symbol="11SwTextFrame" next="334" upper="332" txtNodeIndex="69" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="30998" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Checking the row #: 29128       <Finish/>
+      </txt>
+      <txt ptr="0x559d37338ab0" id="334" symbol="11SwTextFrame" next="335" prev="333" upper="332" txtNodeIndex="70" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="31229" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Actual value:  0       <Finish/>
+      </txt>
+      <txt ptr="0x559d36159aa0" id="335" symbol="11SwTextFrame" prev="334" upper="332" txtNodeIndex="71" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="31460" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Predicted value: 0.13       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x559d37aa4c00" id="336" symbol="11SwCellFrame" next="338" prev="332" upper="331" lower="337" rowspan="-2">
+      <infos>
+       <bounds left="11901" top="30942" width="1241" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="false"/>
+       <prtBounds left="55" top="56" width="1131" height="693"/>
+      </infos>
+      <txt ptr="0x559d37a15cf0" id="337" symbol="11SwTextFrame" upper="336" txtNodeIndex="74" WritingMode="Horizontal">
+       <infos>
+        <bounds left="11956" top="30998" width="1131" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="1131" height="231"/>
+       </infos>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x559d379cff00" id="338" symbol="11SwCellFrame" prev="336" upper="331" lower="356" rowspan="1">
+      <infos>
+       <bounds left="13142" top="30942" width="4705" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="false"/>
+       <prtBounds left="55" top="56" width="4595" height="693"/>
+      </infos>
+      <txt ptr="0x559d373405c0" id="356" symbol="11SwTextFrame" next="339" upper="338" txtNodeIndex="77" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13197" top="31113" width="4595" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4595" height="231"/>
+       </infos>
+← non-default.        <Finish/>
+      </txt>
+      <txt ptr="0x559d379ac400" id="339" symbol="11SwTextFrame" prev="356" upper="338" txtNodeIndex="78" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13197" top="31344" width="4595" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4595" height="231"/>
+       </infos>
+The algorithm predicted correctly.       <Finish/>
+      </txt>
+     </cell>
+    </row>
+    <row ptr="0x559d379dafa0" id="340" symbol="10SwRowFrame" prev="331" upper="154" lower="341">
+     <infos>
+      <bounds left="8724" top="31746" width="9123" height="804" mbFixSize="false" mbValidPos="false" mbValidSize="true" mbValidPrtArea="true"/>
+      <prtBounds left="0" top="0" width="9123" height="804"/>
+     </infos>
+     <cell ptr="0x559d37aa20d0" id="341" symbol="11SwCellFrame" next="345" upper="340" lower="342" rowspan="1">
+      <infos>
+       <bounds left="8724" top="31746" width="3177" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="3067" height="693"/>
+      </infos>
+      <txt ptr="0x559d3729e480" id="342" symbol="11SwTextFrame" next="343" upper="341" txtNodeIndex="81" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="31802" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Checking the row #: 3544       <Text nLength="24" nType="PortionType::Para" nHeight="231" nWidth="2078" Portion="Checking the row #: 3544"/>
+       <LineBreak nWidth="2078" Line="Checking the row #: 3544"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d37a24d80" id="343" symbol="11SwTextFrame" next="344" prev="342" upper="341" txtNodeIndex="82" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="32033" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Actual value:  1       <Text nLength="16" nType="PortionType::Para" nHeight="231" nWidth="1272" Portion="Actual value:  1"/>
+       <LineBreak nWidth="1272" Line="Actual value:  1"/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d371ca4e0" id="344" symbol="11SwTextFrame" prev="343" upper="341" txtNodeIndex="83" WritingMode="Horizontal">
+       <infos>
+        <bounds left="8779" top="32264" width="3067" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="3067" height="231"/>
+       </infos>
+Predicted value: 0.30       <Text nLength="21" nType="PortionType::Para" nHeight="231" nWidth="1694" Portion="Predicted value: 0.30"/>
+       <LineBreak nWidth="1694" Line="Predicted value: 0.30"/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x559d322a9d00" id="345" symbol="11SwCellFrame" next="347" prev="341" upper="340" lower="346" rowspan="-1">
+      <infos>
+       <bounds left="11901" top="31746" width="1241" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="1131" height="693"/>
+      </infos>
+      <txt ptr="0x559d37926940" id="346" symbol="11SwTextFrame" upper="345" txtNodeIndex="86" WritingMode="Horizontal">
+       <infos>
+        <bounds left="11956" top="31802" width="1131" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="1131" height="231"/>
+       </infos>
+       <Text nLength="0" nType="PortionType::Para" nHeight="231"/>
+       <LineBreak/>
+       <Finish/>
+      </txt>
+     </cell>
+     <cell ptr="0x559d372255d0" id="347" symbol="11SwCellFrame" prev="345" upper="340" lower="357" rowspan="1">
+      <infos>
+       <bounds left="13142" top="31746" width="4705" height="804" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="55" top="56" width="4595" height="693"/>
+      </infos>
+      <txt ptr="0x559d371a25d0" id="357" symbol="11SwTextFrame" next="348" upper="347" txtNodeIndex="89" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13197" top="31917" width="4595" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4595" height="231"/>
+       </infos>
+← default.        <Text nLength="11" nType="PortionType::Para" nHeight="231" nWidth="905" Portion="&#x2190; default. "/>
+       <LineBreak nWidth="905" Line="&#x2190; default. "/>
+       <Finish/>
+      </txt>
+      <txt ptr="0x559d37973440" id="348" symbol="11SwTextFrame" prev="357" upper="347" txtNodeIndex="90" WritingMode="Horizontal">
+       <infos>
+        <bounds left="13197" top="32148" width="4595" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4595" height="231"/>
+       </infos>
+The algorithm predicted correctly.       <Text nLength="34" nType="PortionType::Para" nHeight="231" nWidth="2731" Portion="The algorithm predicted correctly."/>
+       <LineBreak nWidth="2731" Line="The algorithm predicted correctly."/>
+       <Finish/>
+      </txt>
+     </cell>
+    </row>
+   </tab>
+   <txt ptr="0x559d36204580" id="65" symbol="11SwTextFrame" prev="154" upper="42" txtNodeIndex="93" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="32551" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
